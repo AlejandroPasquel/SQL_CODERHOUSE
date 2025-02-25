@@ -1,0 +1,12 @@
+Para la correcta instalación de la base de datos se debe referir a la carpeta "Archivos SQL" de este directorio y ejecutar los archivos internos en el
+siguiente orden:
+
+1. Creación de tablas - indices.sql
+2. Creación de Vistas.sql
+3. Creación de Funciones.sql
+4. Creación de Procedimientos Almacenados.sql
+5. Creación de Triggers.sql
+6. Poblamiento_tablas.sql
+7. Creación de Transacciones - TCL.sql
+8. Backup.sql
+
